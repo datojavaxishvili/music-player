@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "name": "tyler - see you again",
+      "artist": "Tyler The Creator, Kali Uchis",
+      "songName": "See You Again"
+    },
+    {
+      "name": "yeat - flawless",
+      "artist": "Yeat, Lil Uzi Vert",
+      "songName": "Flawless"
+    },
+    {
+      "name": "travis scott - butterfly effect",
+      "artist": "Travis Scott",
+      "songName": "Butterfly Effect"
+    },
+    {
+      "name": "fifty fifty - cupid",
+      "artist": "Fifty Fifty",
+      "songName": "Cupid"
+    },
+    {
+      "name": "eminem - mockingbird",
+      "artist": "Eminem",
+      "songName": "Mockingbird"
+    },
+    {
+      "name": "michael jackson - billie jean",
+      "artist": "Michael Jackson",
+      "songName": "Billie Jean"
+    },
+    {
+      "name": "agust d - haegeum",
+      "artist": "Agust D",
+      "songName": "Haegeum"
+    }
+  ]
+}
